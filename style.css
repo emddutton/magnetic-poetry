@@ -9,12 +9,11 @@ body {
 
 .handle {
     position: absolute;
-    margin-top: 15%;
     left: 5%;
 }
 
 .word_container {
-    margin: 0 auto;
+    margin: 350px auto 0 auto;
     height: 400px;
     width: 1024px;
     position: relative;
